@@ -1,5 +1,5 @@
 # dio-desafio-fist-Repositório 
-Projeto sobre Git/Github
+Projeto Sobre Git/Github Desafio de Projeto 
 
 ##links úteis
 [Sintaxe basica markdown](https://www.markdownguide.org/)
